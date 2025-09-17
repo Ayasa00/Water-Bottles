@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "brand": "Coca-Cola",
+    "size": "500ml",
+    "amount": 50,
+    "hotOrCold": "cold",
+    "image": "https://example.com/images/coca-cola-500ml.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "Pepsi",
+    "size": "1L",
+    "amount": 80,
+    "hotOrCold": "cold",
+    "image": "https://example.com/images/pepsi-1l.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "Lipton Tea",
+    "size": "250ml",
+    "amount": 30,
+    "hotOrCold": "hot",
+    "image": "https://example.com/images/lipton-tea-250ml.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "Fanta",
+    "size": "500ml",
+    "amount": 45,
+    "hotOrCold": "cold",
+    "image": "https://example.com/images/fanta-500ml.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "Green Tea",
+    "size": "300ml",
+    "amount": 60,
+    "hotOrCold": "hot",
+    "image": "https://example.com/images/green-tea-300ml.jpg"
+  }
+]
+
